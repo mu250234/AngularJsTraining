@@ -1,0 +1,44 @@
+--> software sdk
+
+-- sublime ... sublime is a javascript IDE. study about package control...(code allignment shortkeys...and study all short cuts...)
+
+--node js : node js is a server side javascript lanaguage. 
+
+download and install node js.
+It comes with npm (node package manager).npm is package management tool for add exernal  modules (libararies) to app.
+
+--grunt or gulp ... task runners . 
+
+
+-- npm install -g grunt ; (-g instals globally...)
+
+
+
+GIT is a command line interface. download and install it.
+
+
+
+--Yeoman generator : angular js app generator.
+
+
+1. Install nodeJs, Git.
+2. Install Ruby and set the path in environment Variables (path should be till bin) system properties...advanced system settings--selects advanced --environment variables -- create path , value 
+
+
+“gem install compass” in the working directory
+---- Run the following commands
+a) npm install -g generator-angular
+b) npm install -g generator-karma
+c) yo angular
+d) grunt serve
+
+
+if any error came run 
+brower install…….
+If unable to get from git hub “git:some url” make it as https 
+	git config --global url.https://github.com/.insteadOf git://github.com/
+
+
+I have found the step-by-step guide to generate angular folder strucuture:
+
+u can find it @ http://yeoman.io/codelab/
